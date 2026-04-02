@@ -22,7 +22,7 @@ Welcome to Balatro Mods Android 🤗. This is a version that has been modified t
 > - 📱 Android 5.0 or higher
 > - 🏗️ ARM64-v8a, ARMEABI-v7a architecture device
 > - 💾 At least 500MB free storage
-> - Bought Balatro on Steam,... 
+> - 💵 Bought Balatro on Steam,... 
 
 # Installation
 ```
@@ -30,6 +30,10 @@ Welcome to Balatro Mods Android 🤗. This is a version that has been modified t
 2. ⚙️ Enable "Install from Unknown Sources"
 3. 🔌 Install the APK and launch the app
 ```
+
+# Mods
+- Some mods will bug so download the mods that have been fixed
+ +) Fix UI : https://github.com/WinterWolfVN/Balatro-Mods-Android/tree/main/Mods/Fix%20UI
 
 # Bugs
 - You can join discord server for support 

@@ -33,7 +33,12 @@ Welcome to Balatro Mods Android 🤗. This is a version that has been modified t
 
 # Mods
 - Some mods will bug so download the mods that have been fixed
- +) Fix UI : https://github.com/WinterWolfVN/Balatro-Mods-Android/tree/main/Mods/Fix%20UI
+
+-  Fix UI : https://github.com/WinterWolfVN/Balatro-Mods-Android/tree/main/Mods/Fix%20UI
 
 # Bugs
-- You can join discord server for support 
+- You can join discord server for support
+
+1. https://discord.gg/TWxzWesvqS
+
+2. https://discord.gg/cRmpq6thEN
